@@ -1,0 +1,57 @@
+{
+  "HomePageURL": "https://automationexercise.com/"
+,
+
+  "userInfo":
+  {
+    "name": "Abdoo",
+    "emailAddress": "abdel@gmail.com",
+    "password": "12345",
+    "firstName": "Abdelrahman",
+    "lastName": "Fares",
+    "company": "Concentrix",
+    "address": "Bulding no127",
+    "address2": "Third Floor",
+    "state": "Giza",
+    "city": "Dokki",
+    "zipCode": "98765",
+    "mobileNumber": "01001625895",
+    "wrongEmailAddress": "abdoo@gmail.com",
+    "wrongPassword": "1234",
+    "existingEmailAddress": "abdoo1522004@gmail.com"
+  },
+
+  "description": "Description",
+
+  "productReview": "This Product is really useful, i will certainly recommend it to some friends of mine.",
+
+  "billingData":
+  {
+    "nameOnCard": "Abdelrahman Fares Ali",
+    "cardNumber": "5647-3839-0202-9365",
+    "cvc": "739",
+    "expirationMonth": "12",
+    "expirationYear": "2027"
+  },
+
+  "productInfo": "Green Top"
+,
+
+  "productData":
+  {
+    "productName": "green top",
+    "productQuantity": "4",
+    "recommendedProductName": "Stylish Dress"
+  }
+,
+
+  "contactData":
+  {
+    "name": "Abdoo",
+    "email": "abdelrahmanfares@gmail.com",
+    "subject": "Complaint",
+    "message": "The Product isn't Compatible"
+  }
+
+
+}
